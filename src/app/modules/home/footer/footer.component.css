@@ -1,0 +1,15 @@
+footer {
+    /* position: absolute; */
+    bottom: 0;
+    width: 100%;
+    background-color: gainsboro;
+}
+
+.foot-content {
+    padding: 40px;
+}
+
+.foot-bottom {
+    background-color: silver;
+    padding: 10px;
+}
